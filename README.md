@@ -9,7 +9,7 @@
 3. Скачайте `prometheus` и в соответствии с лекцией разместите файлы в целевые директории.
 4. Создайте сервис как показано на уроке
 5. Проверьте что `prometheus` запускается, останавливается, перезапускается и отображает статус с помощью `systemctl`
-![Задание 1](img1.png)
+![Задание 1](https://github.com/asad-bekov/hw-04/blob/main/img/img1.png)
 
 ---
 
@@ -21,7 +21,7 @@
 3. Создайте сервис для как показано на уроке.
 4. Проверьте что `node exporter` запускается, останавливается, перезапускается и отображает статус с помощью `systemctl`.
 
-![Задание 2-3](path_to_screenshot2-3.png)
+![Задание 2](https://github.com/asad-bekov/hw-04/blob/main/img/img2.png)
 
 ---
 
@@ -33,17 +33,17 @@
 3. Перезапустите `prometheus`.
 4. Проверьте что он запустился
 
-[Задание 4](path_to_screenshot4.png)
-[Задание 4](path_to_screenshot4.png)
+[Задание 3](https://github.com/asad-bekov/hw-04/blob/main/img/img3.png)
+[Задание 3](https://github.com/asad-bekov/hw-04/blob/main/img/img4.png)
 
 ---
 
 ## Задание 4*
 **Установите Grafana..**
 
-![Задание 5](path_to_screenshot5.png)
+![Задание 4](https://github.com/asad-bekov/hw-04/blob/main/img/img5.png)
 
 ## Задание 5*
 **Интегрируйте Grafana и Prometheus..**
 
-![Задание 5](path_to_screenshot5.png)
+![Задание 5](https://github.com/asad-bekov/hw-04/blob/main/img/img1.png)
