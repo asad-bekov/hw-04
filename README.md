@@ -33,8 +33,8 @@
 3. Перезапустите `prometheus`.
 4. Проверьте что он запустился
 
-[Задание 3](https://github.com/asad-bekov/hw-04/blob/main/img/img3.png)
-[Задание 3](https://github.com/asad-bekov/hw-04/blob/main/img/img4.png)
+![Задание 3](https://github.com/asad-bekov/hw-04/blob/main/img/img3.png)
+![Задание 3](https://github.com/asad-bekov/hw-04/blob/main/img/img4.png)
 
 ---
 
@@ -46,4 +46,4 @@
 ## Задание 5*
 **Интегрируйте Grafana и Prometheus..**
 
-![Задание 5](https://github.com/asad-bekov/hw-04/blob/main/img/img1.png)
+![Задание 5](https://github.com/asad-bekov/hw-04/blob/main/img/img6.png)
